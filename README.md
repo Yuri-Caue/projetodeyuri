@@ -6,4 +6,5 @@ Aprender GitHub e controle de versão.
 
 ## Integrantes
 - pessoa1i,pessoa 2, pessoa 3…..
-
+- Yuri
+- GIGI
